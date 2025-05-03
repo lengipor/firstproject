@@ -127,6 +127,6 @@ function Login_Item() {
 }
 
 // Navigate to signup page
-function Signs_() {
+function SignsIn_() {
     window.location.href = "assets/bin/signup.html";
 }
